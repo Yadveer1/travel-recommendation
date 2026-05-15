@@ -1,0 +1,64 @@
+{
+  "countries": [
+    {
+      "id": 1,
+      "name": "Australia",
+      "cities": [
+        {
+          "name": "Sydney, Australia",
+          "imageUrl": "images/sydney.png",
+          "description": "A vibrant city known for its iconic landmarks like the Sydney Opera House and Sydney Harbour Bridge."
+        },
+        {
+          "name": "Melbourne, Australia",
+          "imageUrl": "images/melbourne.png",
+          "description": "A cultural hub famous for its art, food, and diverse neighborhoods."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Japan",
+      "cities": [
+        {
+          "name": "Tokyo, Japan",
+          "imageUrl": "images/tokyo.png",
+          "description": "A bustling metropolis blending tradition and modernity, famous for its cherry blossoms and rich culture."
+        },
+        {
+          "name": "Kyoto, Japan",
+          "imageUrl": "images/kyoto.png",
+          "description": "Known for its historic shrines, temples, and traditional tea houses."
+        }
+      ]
+    }
+  ],
+  "temples": [
+    {
+      "id": 1,
+      "name": "Taj Mahal, India",
+      "imageUrl": "images/taj_mahal.png",
+      "description": "An iconic symbol of love and a masterpiece of Mughal architecture."
+    },
+    {
+      "id": 2,
+      "name": "Angkor Wat, Cambodia",
+      "imageUrl": "images/angkor_wat.png",
+      "description": "A UNESCO World Heritage site and the largest religious monument in the world."
+    }
+  ],
+  "beaches": [
+    {
+      "id": 1,
+      "name": "Bora Bora, French Polynesia",
+      "imageUrl": "images/bora_bora.png",
+      "description": "An island known for its stunning turquoise waters and luxurious overwater bungalows."
+    },
+    {
+      "id": 2,
+      "name": "Copacabana Beach, Brazil",
+      "imageUrl": "images/copacabana.png",
+      "description": "A famous beach in Rio de Janeiro, Brazil, known for its vibrant atmosphere and scenic views."
+    }
+  ]
+}
